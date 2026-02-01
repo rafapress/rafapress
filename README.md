@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="/images/header.png" alt="Rafael Peres" width="300" />
 </div>
 
 ###
@@ -12,17 +12,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hey, prazer! Ah, e seja bem vindo!</h1>
 
 ###
 
-<h3 align="left">UM POUCO SOBRE...</h3>
+<h3 align="left">UM POUCO SOBRE MIM</h3>
 
 ###
 
@@ -93,4 +87,4 @@ Sou um apaixonado por resolver problemas através da tecnologia. Minha jornada c
 <p>rp@hausti.app</p>
 <br />
 
-###
+</div>
