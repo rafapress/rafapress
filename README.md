@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="[https://linkeding.com/in/rafa-press/](https://www.linkedin.com/in/rafa-press/)" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  /></a>
+  <a href="https://linkeding.com/in/rafa-press/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  /></a>
   <a href="https://instagram.com/rafapress.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram"  /></a>
   <a href="https://facebook.com/rafaelperes.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook"  /></a>
 </div>
