@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">DESAFIOS TÉCNICOS DE PESO</h3>
+<h3 align="left">DESAFIOS TÉCNICOS & MODERNIZAÇÃO FULLSTACK</h3>
 
 <p align="left">Minha trajetória em grandes empresas foi movida pela oportunidade de solucionar arquiteturas complexas:</p>
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">Linguagens, tecnologias, ferramentas etc.</h3>
+<h3 align="left">LINGUAGENS, TECNOLOGIAS E MAIS</h3>
 
 ###
 
@@ -89,10 +89,7 @@
 ###
 
 <h3 align="left">CONTATO</h3>
-
-###
-
-<p>rp@hausti.app</p>
+<p><a href="mailto:rp@hausti.app">rp@hausti.app</a></p>
 <br />
 
 </div>
