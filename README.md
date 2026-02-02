@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey, prazer! Ah, e seja bem vindo!</h1>
+<h1 align="center">Hey, prazer! Seja bem-vindo ao meu ecossistema tecnológico.</h3>
 
 ###
 
